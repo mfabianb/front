@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: true,
+  production: false,
   baseUrl: 'http://20.85.212.162:8081/crud/',
 
   msPath: {
