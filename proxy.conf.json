@@ -1,0 +1,8 @@
+{
+    "crud/*": {
+        "target": "http://20.85.212.162:8081/",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    }
+}
