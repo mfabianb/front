@@ -1,1 +1,18 @@
-<p>login works!</p>
+<div class="general-background login-background">
+
+    <div class="login-center-verticaly center-content">
+        <div class="title-container">
+            <h1>{{title}}</h1>
+            <img src="./../../../../assets/img/logo/logo-med-t-a.png" alt="classard">
+        </div>
+        <div class="login-container">
+            <img src="./../../../../assets/img/logo/logo-mini-t-a.png" alt="classard">
+            <h3>{{loginConst.TITLE}}</h3>
+            <a mat-flat-button [routerLink]="['/dashboard/list']">{{loginConst.BUTTON}}</a>
+            <p class="text-small"><a href="#">Aviso de privacidad</a></p>
+        </div>
+    </div>
+    
+</div>
+
+

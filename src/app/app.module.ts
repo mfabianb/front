@@ -11,7 +11,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { SaludoComponent } from './ui/saludo/saludo/saludo.component';
-import { LoginComponent } from './app/login/login/login.component';
+import { LoginComponent } from './ui/components/login/login.component';
 import { DashboardComponent } from './ui/components/dashboard/dashboard.component';
 import { TeacherComponent } from './ui/components/dashboard/teacher/teacher.component';
 import { StudentComponent } from './ui/components/dashboard/student/student.component';

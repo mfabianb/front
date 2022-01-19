@@ -1,0 +1,33 @@
+@import url('./../../../../general-styles.scss');
+
+.login-background{
+
+    /*background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), 
+        url("../../../../assets/img/school14.jpg");*/
+
+    background-image: linear-gradient(rgba(89, 165, 44, 0.2),rgba(255, 255, 255, 0.4)),
+    url("../../../../assets/img/school04.png");
+    
+    
+}
+
+.login-center-verticaly{
+    padding-top: 3%;
+}
+
+.title-container{
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 10px 0;
+    margin-bottom: 5%;
+}
+
+.login-container{
+    background-color: rgba(255, 255, 255, 0.6);
+    padding-top: 10%;
+    margin: auto;
+    width: 400px;
+    padding: 10px 0;
+}
+
+
+
