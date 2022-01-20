@@ -30,3 +30,13 @@ export const LOGIN = {
     TITLE: 'Inicia Sesión en ' + PROJECT_NAME.SHORT,
     BUTTON: 'Iniciar Sesión'
 }
+
+export const DASHBOARD = {
+    //TITLE: 'Bienvenido a ' + PROJECT_NAME.SHORT,
+    TOOLBAR: {
+        TITLE: ''
+    },
+    BUTTONS: {
+        LOGIN: 'Iniciar Sesión'
+    }
+}
